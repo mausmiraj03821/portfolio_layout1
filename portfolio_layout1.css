@@ -1,0 +1,289 @@
+.h40 {
+    height: 40px;
+}
+
+.h100 {
+    height: 100px;
+}
+
+.h200 {
+    height: 200px;
+}
+
+.h150 {
+    height: 150px;
+}
+
+.h300 {
+    height: 300px;
+}
+
+.h330 {
+    height: 330px;
+}
+
+.h350 {
+    height: 380px;
+}
+
+.h500 {
+    height: 500px;
+}
+
+.h700 {
+    height: 730px;
+}
+
+.graycolor {
+    background-color: dimgray;
+    border-radius: 10px;
+}
+
+.h400 {
+    height: 450px;
+}
+
+.h1p {
+    color: white;
+    margin-top: 150Px;
+    margin-left: 50px;
+}
+
+.h1pp {
+    margin-left: 15px;
+}
+
+.h4size {
+    font-size: 40px;
+}
+
+.purple {
+    background-color: rebeccapurple;
+    border-style: none;
+}
+
+.buttonp {
+    border-style: none;
+    border-bottom-left-radius: 35px;
+}
+
+.fs {
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.bcolorgray {
+    background-color: rgba(21, 69, 109, 0.51);
+}
+
+.headimagep {
+    width: 400px;
+    height: 445px;
+    float: right;
+    margin-top: -340px;
+}
+
+button {
+    width: 140px;
+    height: 35px;
+    color: white;
+    border-radius: 0px 20px -1px;
+}
+
+.button {
+    width: 110px;
+    height: 35px;
+}
+
+.button2 {
+    width: 120px;
+    height: 35px;
+    margin-left: 115px;
+}
+
+.mleft {
+    margin-left: 270px;
+}
+
+.headingp {
+    font-family: 'Century Gothic';
+}
+
+.whitecolor {
+    color: rgba(255, 255, 255, 0.72);
+}
+
+.colorwhite {
+    color: white;
+}
+
+.fr {
+    float: right;
+}
+
+.backgroundattechmentfixed {
+    position: sticky;
+}
+
+.mt {
+    margin-top: -35px;
+}
+
+hr {
+    width: 100%;
+}
+
+.hrw {
+    width: 70%;
+}
+
+.hrp {
+    width: 80%;
+    margin-left: 80px;
+}
+
+.hrproperty {
+    width: 90%;
+    margin-left: 5px;
+}
+
+li {
+    display: inline;
+    margin-left: 20px;
+}
+
+.li {
+    width: 60px;
+    height: 60px;
+    background-color: black;
+}
+
+.li:hover {
+    position: relative;
+    transform: scale(1.2);
+    transition: 2s;
+}
+
+.contentimgp {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.contentimgp:hover {
+    position: relative;
+    transform: scale(1.2);
+    transition: 2s;
+}
+
+.innercontentimg {
+    height: 150px;
+    width: 205px;
+    margin-left: -15px;
+}
+
+.innercontentimg:hover {
+    position: relative;
+    top: 10px;
+    transition: 2s;
+}
+
+.pricep {
+    font-size: 20px;
+}
+
+.cardp {
+    font-size: 15px;
+}
+
+.specializecontentp {
+    height: 200px;
+    width: 200px;
+}
+
+.specializecontent {
+    margin-left: 80px;
+}
+
+.fsize19 {
+    font-size: 19px;
+}
+
+.fsize15 {
+    font-size: 15px;
+}
+
+.fsize20 {
+    font-size: 20px;
+}
+
+.bcolorlight {
+    background-color: rgba(255, 255, 255, 0.18);
+}
+
+.expertimgp {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.experienceimgp {
+    width: 511px;
+    height: 250px;
+    margin-left: -15px;
+}
+
+.iconp {
+    font-size: 12px;
+    color: white;
+    padding: 5px;
+}
+
+.div2 {
+    width: 60px;
+    height: 170px;
+    background-color: white;
+}
+
+.div3 {
+    width: 60px;
+    height: 37px;
+    border: 1px solid white;
+}
+
+.purplecolor {
+    color: purple;
+}
+
+.pricingimgp {
+    width: 221px;
+    height: 160px;
+    margin-left: -15px;
+}
+
+.pricediv1 {
+    height: 140px;
+    border-radius: 50%;
+    border: 5px solid #e9ecef38;
+    background-color: purple;
+    margin-left: 33px;
+}
+
+.borderp {
+    border: 2px solid purple;
+}
+
+#flogoimgp {
+    margin: auto;
+    margin-left: 635px;
+    margin-top: -40px;
+}
+
+.footerp {
+    background-color: black;
+}
+
+.fadimgp {
+    width: 170px;
+    height: 100px;
+}
